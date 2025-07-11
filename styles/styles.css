@@ -100,6 +100,70 @@ header {
   border-radius: 48px;
 }
 
+/* productive-users-section */
+
+/*wc-mini  */
+.wc-mini {
+    background-color: #F8F8F8;
+    padding: 50px 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.wc-mini h4 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 20px;
+}
+.wc-mini p {
+    font-size: 30px;
+    font-weight: regular;
+    color: #252432;
+    margin-bottom: 30px;
+}
+.wc-mini img {
+    width: 403px;
+    height: 328px;
+    border-radius: 30px;
+}
+
+/* wc-features */
+.wc-features {
+    background-color:  #bebeffd8;
+    padding: 50px 20px;
+    border-radius: 24px;
+    margin: 20px auto;
+    width: auto;  
+}
+.wc-features-title {
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.wc-feature-h{
+    font-size: 80px;
+    font-weight: bold;
+    color: #1404ef;
+    margin-bottom: 10px;
+    font-family:"Inter", sans-serif;
+}
+.wc-feature-span {
+    font-size: 20px;
+    font-weight: regular;
+    color: #000000;
+    margin-left: 1 0px;
+    font-family:"Inter", sans-serif;
+}
+.wc-features-list{
+    display: flex;
+    justify-content: space-around;
+}
+
 
 
 
